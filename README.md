@@ -1,2 +1,2 @@
-# VERILOG-practice
+# VERILOG
 prac prac time
